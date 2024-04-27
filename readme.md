@@ -4,6 +4,9 @@ L'objectif de ce test est l'écriture d'un programme purement backend. Il peut �
 d'un futur entretien au cours duquel il pourra être demandé de faire des évolutions fonctionelles dessus. Si certaines parties
 ne te paraissent pas claires, nous t'encourageons à nous poser toutes les questions que tu juges utiles.
 
+## EDIT
+to launch the project, please have a look at the [launch.md](./launch.md).
+
 ## Enoncé de l'exercice
 Le product owner te demande de developper un programme qui permet de calculer le montant à facturer à un client d'Ekwateur pour 
 un mois calendaire.
