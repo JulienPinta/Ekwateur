@@ -7,7 +7,7 @@ You can either try to open the project with IntelliJ and run the main method in 
 You can also build the project and make a jar and then execute it.
 
 By default, you'll find in the resources a .jar file with a some computation of bills.
-You can start it from a terminal (being in the /Ekwateur folder) doing
+You can start it from a terminal (being in the root folder) doing
 ```
 java -jar src/main/resources/ekwateur.jar
 ```
